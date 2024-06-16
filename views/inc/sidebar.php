@@ -90,10 +90,9 @@
 				</ul>
 			</li>
 			<li>
-			<!-- zmdi-hc-fwk -->
 			<li>
 				<a href="#!" class="btn-sideBar-SubMenu">
-				<i class="zmdi zmdi-male zmdi-hc-fw"></i> Horario <i class="zmdi zmdi-caret-down pull-right"></i>
+				<i class="zmdi zmdi-calendar-note zmdi-hc-fw"></i> Horario <i class="zmdi zmdi-caret-down pull-right"></i>
 				</a>
 				<ul class="list-unstyled full-box">
 					<li>
